@@ -397,10 +397,12 @@ hr {
 
     .learn {
         font-size: 60px;
+        margin-left: 80px;
     }
 
     .pro {
         font-size: 50px;
+        margin-left: 80px;
     }
 
     .mid-right {
@@ -871,6 +873,10 @@ hr {
         height: 3px;
     }
 
+    .second {
+        font-size: 45px;
+    }
+
     .footer-right {
         width: 100%;
         height: 450px;
@@ -878,5 +884,171 @@ hr {
 
     .reward {
         font-size: 14px;
+    }
+}
+
+@media only screen and (min-width: 2560px) {
+
+    .main {
+        height: 1800px;
+    }
+
+    .top-logo {
+        margin-left: 200px;
+    }
+
+    li {
+        margin: 60px;
+    }
+
+    .u {
+        font-size: 101px;
+    }
+
+    .trending {
+        font-size: 45px;
+        margin-left: 200px;
+    }
+
+    .softs {
+        font-size: 45px;
+        margin-left: 200px;
+    }
+
+    .top-left {
+        height: 400px;
+    }
+
+    .top-right {
+        height: 1400px;
+    }
+
+    ul {
+        font-size: 100px;
+    }
+
+    .mid-left {
+        height: 400px;
+    }
+
+    .learn {
+        font-size: 100px;
+        margin-left: 200px;
+        margin-top: 13px;
+    }
+
+    .pro {
+        font-size: 100px;
+        margin-top: -25px;
+        margin-left: 200px;
+    }
+
+    .mid-right {
+        height: 400px;
+        font-size: 45px;
+    }
+
+    .address {
+        font-size: 40px;
+    }
+
+    .bottom-left {
+        height: 400px;
+    }
+
+    .first {
+        font-size: 100px;
+    }
+
+    .start {
+        font-size: 70px;
+    }
+
+    .course {
+        font-size: 67px;
+    }
+
+    .bottom-right {
+        height: 400px;
+    }
+
+    .ciccle {
+        height: 200px;
+    }
+
+    .coded {
+        font-size: 70px;
+        margin-top: 90px;
+        margin-left: 10px;
+    }
+
+    .company-logo {
+        font-size: 27px;
+        margin-left: 12px;
+    }
+
+    .footer-left {
+        height: 1250px;
+    }
+
+    .center {
+        width: 76%;
+    }
+
+    .second {
+        font-size: 108px;
+    }
+
+    .oc {
+        font-size: 45px;
+    }
+
+    .coded-main {
+        font-size: 98px;
+    }
+
+    .coded-co {
+        margin-top: 15px;
+        font-size: 40px;
+    }
+
+    .lorem-text {
+        font-size: 45px;
+    }
+
+    .para {
+        margin-top: 50px;
+        font-size: 47px;
+    }
+
+    .footer-right {
+        height: 1250px;
+    }
+
+    .end {
+        font-size: 60px;
+    }
+
+    .trophy {
+        width: auto;
+        height: 250px;
+    }
+
+    .earn {
+        font-size: 65px;
+    }
+
+    .reward {
+        font-size: 55px;
+    }
+
+    .lorem {
+        font-size: 35px;
+        width: 80%;
+    }
+
+    hr {
+        height: 15px;
+        top: 125px;
     }
 }
